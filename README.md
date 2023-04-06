@@ -1,0 +1,1 @@
+### Basic open ai completion api integation using laravel package orhanerday / open-ai
